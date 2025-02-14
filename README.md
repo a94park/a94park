@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Flutter** and **Kubernetes**
-- 💬 Ask me about **JavaScript**, **Python**, and **DevOps**
-- 📫 How to reach me: [phacez26@gmail.com](mailto:phacez26@gmail.com)
+- 🌱 I’m currently learning **Flutter** and **E-Commerce Mobile App Development**
+- 💬 Ask me about **JavaScript**, **Python**, and **Flutter**
+- 📫 How to reach me: [a.p.00@icloud.com](mailto:a.p.00@icloud.com)
 - ⚡ Fun fact: I love playing World of Warcraft and solving Leetcode problems in my free time
 
 ## GitHub Stats
