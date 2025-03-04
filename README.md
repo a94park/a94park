@@ -22,7 +22,7 @@ Here are some of my notable projects:
 ### [My Landing Page](https://parkabraham.com)
 Description: My landing page with access to live demos of my projects. Deployed using AWS Lightsail to support my backend for my AI chatbot. Includes status updates on what I am doing tech-related.
 
-### [Career Connect](http://13.125.221.0/)
+### [Career Connect](http://3.34.178.193/)
 Description: A CRUD application where job-seekers can find employment. Includes a swipe to search feature for a modern, youthful approach.
 
 ### [Virtual Assistant](https://parkabraham)
